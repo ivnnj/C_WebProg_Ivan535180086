@@ -3,10 +3,11 @@
     margin: 2em auto 1em auto;
 }
 .ivanjairus{
-    font-family: Bebas Neue Cyrillic;
+    font-family: 'Bebas Neue', cursive;
     font-size: 40px;
     margin: 20px;
     font-weight: 700;
+    padding-left: 6px;
 }
 
 .ivan{
@@ -17,7 +18,7 @@
 }
 
 .tanggal , .ig{
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-size: 12px;
     min-height: 100px;
     padding:20px;
@@ -36,7 +37,7 @@
 }
 
 .aboutme , .contac , .education{
-    font-family: Glacial Indifference;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
     font-size: 16px;
     color: #707070;
@@ -45,7 +46,7 @@
 }
 
 .isime, .isicontac, .isieducation{
-    font-family: amiko;
+    font-family: 'Amiko', sans-serif;
     font-size: 13px;
     color: #707070;
     text-align: justify;
@@ -106,7 +107,7 @@
 }
 
 .competencies, .hobby{
-    font-family: Glacial Indifference;
+    font-family: 'Roboto', sans-serif;
     color: #707070;
     font-weight: 600;
     line-height: 3em;
@@ -114,7 +115,7 @@
 }
 
 .coding, .hobby2{
-    font-family: amiko;
+    font-family: 'Amiko', sans-serif;
     font-size: 13px;
     padding-left: 4.9em;
     color: #707070;
