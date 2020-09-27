@@ -1,0 +1,76 @@
+.padding{
+	padding: 15px;
+}
+
+.margin{
+	margin-top: 40px;
+	margin-bottom: 38px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+}
+
+.dropshadow{
+	text-shadow: 2px 2px 3px #ff0000;
+}
+
+p.none{
+	text-transform: none;
+}
+
+p.capitalize{
+	text-transform: capitalize;
+}
+
+p.uppercase{
+	text-transform: uppercase;
+}
+
+p.lowercase{
+	text-transform: lowercase;
+}
+
+.satu{
+	letter-spacing: 3px;
+	word-spacing: 30px;
+}
+
+.dua{
+	letter-spacing: 0.5em;
+	word-spacing: 0.5em;
+}
+
+.tiga{
+	letter-spacing: -1px;
+	word-spacing: -1px;
+}
+
+.pre{
+	white-space: pre;
+}
+
+.preline{
+	white-space: pre-line;
+}
+
+.prewrap{
+	white-space: pre-wrap;
+}
+
+.nowarp{
+	white-space: nowrap;
+}
+
+.normal{
+	white-space: normal;
+}
+
+h2.ltr{
+	direction: ltr;
+}
+
+h2.rtl{
+    direction: rtl;
+}

@@ -1,0 +1,11 @@
+h1.hide{
+	display: none;
+}
+
+li{
+	display: inline;
+}
+
+h1.hidden{
+	visibility: hidden;
+}

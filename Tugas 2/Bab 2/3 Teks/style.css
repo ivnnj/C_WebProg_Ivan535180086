@@ -1,0 +1,55 @@
+h1.satu{
+    color: red;
+}
+h1.dua{
+    color: #0000ff;
+}
+h1.tiga{
+    color: rgb(225, 255, 0);
+}
+h1.empat{
+    color: hsl(248, 54%, 58%);
+}
+
+.leftAlign{
+    text-align: left;
+}
+.rightAlign{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+.justify{
+text-align: justify;
+}
+
+img.a{vertical-align: none;}
+img.b{vertical-align: baseline;}
+img.c{vertical-align: sub;}
+img.d{vertical-align: super;}
+img.e{vertical-align: top;}
+img.f{vertical-align: text-top;}
+img.g{vertical-align: middle;}
+img.h{vertical-align: bottom;}
+img.i{vertical-align: text-bottom;}
+img.j{vertical-align: 100%;}
+img.k{vertical-align: 50%;}
+
+
+h1.underline{
+    text-decoration: underline;
+}
+h1.overline{
+    text-decoration: overline;
+}
+h1.line-through{
+    text-decoration: line-through;
+}
+h1.none{
+    text-decoration: none;
+}
+
+.indent{
+    text-indent: 3em;
+}
