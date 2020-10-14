@@ -1,0 +1,51 @@
+[
+    {
+      "nama":"Muhammad ibn Musa al-Khwarizmi",
+      "imgname" : "alkhawarizmi",
+      "panggilan":"al-Khwarizmi",
+      "reputasi":"Penemu Algoritma",
+      "bio":"adalah seorang ahli dalam bidang matematika, astronomi, astrologi, dan geografi yang berasal dari Persia. Lahir sekitar tahun 780 di Khwārizm (sekarang Khiva, Uzbekistan) dan wafat sekitar tahun 850 di Baghdad. Hampir sepanjang hidupnya, ia bekerja sebagai dosen di Sekolah Kehormatan di Baghdad yang didirikan oleh Khalifah Bani Abbasiyah Al-Ma'mun, tempat ia belajar ilmu alam dan matematik, termasuk mempelajari terjemahan manuskrip Sanskerta dan Yunani"
+    },
+    {
+      "nama":"William Henry \"Bill\" Gates III",
+      "imgname" : "billgates",
+      "panggilan":"Bill Gates",
+      "reputasi":"Pendiri Microsoft",
+      "bio":"seorang tokoh bisnis, investor, filantropis, penulis asal Amerika Serikat, serta mantan CEO yang saat ini menjabat sebagai ketua Microsoft, perusahaan perangkat lunak yang ia dirikan bersama Paul Allen.[3] Ia menduduki peringkat tetap di antara orang-orang terkaya di dunia dan menempati peringkat pertama sejak 1995 hingga 2009, tidak termasuk 2008 ketika ia turun ke peringkat tiga"
+    },
+    {
+      "nama":"Linus Benedict Torvalds",
+      "imgname" : "linustrovalds",
+      "panggilan":"Linus Torvalds",
+      "reputasi":"Perintis Pengembangan Linux",
+      "bio":"adalah rekayasawan perangkat lunak Finlandia yang dikenal sebagai perintis pengembangan Kernel Linux. Ia sekarang bertindak sebagai koordinator proyek tersebut.Linux terinsipirasi oleh Minix (sistem operasi yang dikembangkan oleh Andrew S. Tanenbaum) untuk mengembangkan sistem operasi mirip Unix (Unix-like) yang dapat dijalankan pada sebuah PC. Linux sekarang dapat dijalankan pada berbagai arsitektur lain."
+    },
+    {
+      "nama":"Lawrence Edward \"Larry\" Page",
+      "imgname" : "larrypage",
+      "panggilan":"Larry Page",
+      "reputasi":"Pendiri Google",
+      "bio":"salah satu pendiri dari mesin pencari internet Google bersama Sergey Brin. Sejak 4 April 2011, ia menjabat sebagai Chief Executive Officer/CEO di Google Inc. menggantikan Eric Schmidt."
+    },
+    {
+      "nama":"Sir Timothy John Berners-Lee",
+      "imgname" : "timbernerslee",
+      "panggilan":"Tim Berners-Lee",
+      "reputasi":"Penemu World Wide Web",
+      "bio":"penemu World Wide Web dan ketua World Wide Web Consortium, yang mengatur perkembangannya.Pada 1980, ketika masih seorang kontraktor bebas di CERN, Berners-Lee mengajukan sebuah proyek yang berbasiskan konsep hiperteks (hypertext) untuk memfasilitasi pembagian dan pembaharuan informasi di antara para peneliti. Dengan bantuan dari Robert Cailliau dia menciptakan sistem prototipe bernama Enquire."
+    },
+    {
+      "nama":"Richard Matthew Stallman",
+      "imgname" : "richardstallman",
+      "panggilan":"Richard Stallman",
+      "reputasi":"Pendiri GNU",
+      "bio":"pendiri gerakan perangkat lunak bebas, proyek GNU, dan Yayasan Perangkat Lunak Bebas. Dia adalah yang mengerjakan, GNU C Compiler, dan GNU Debugger. Stallman juga yang menulis GNU General Public License (GNU GPL atau GPL), lisensi perangkat lunak bebas yang terbanyak dipakai, dan memberi ilham konsep copyleft."
+    },
+    {
+      "nama":"Alan Mathison Turing",
+      "imgname" : "alanturing",
+      "panggilan":"Alan Turing",
+      "reputasi":"Penemu Mesin Turing",
+      "bio":"seorang peneliti matematika dan komputer, dan pahlawan perang Inggris.Dia adalah dari peneliti-peneliti komputer modern digital pertama. Selain itu dia adalah orang pertama yang berpikir menggunakan komputer untuk berbagai keperluan. Dia mengatakan bahwa komputer dapat menjalankan berbagai program. Dia juga memberikan ide tentang mesin Turing, mesin yang dapat menjalankan sekumpulan perintah. Turing juga yang mencetuskan tes Turing. Namanya diabadikan dalam nama Penghargaan Turing."
+    }
+  ]

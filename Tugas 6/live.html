@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Catalogue</title>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container-fluid my-3 px-4">
+    <h1>Movie Catalogue</h1>
+    <form class="form border p-3">
+      <div class="form-group">
+        <label for="title">Search by movie title</label>
+        <input type="text" class="form-control" id="title" aria-describedby="error" required>
+        <small class="form-text text-danger" id="error"></small>
+      </div>
+      <button type="submit" class="btn btn-primary" id="searchButton">Search</button>
+    </form>
+    <table class="table" id="result">
+      <tr>
+        <td width="10"><h2 class="display-5">#1</h2></td>
+        <td width="100"><img src="images/deadrush.jpg" height="200" width="200"></td>
+        <td>
+          <h2 class="display-5">Dead Rush</h2>
+          <p>Dead Rush is the end of the world, as we know it. Seen through the eyes of one 
+              man - David - As he takes us through his journey: before, during and after the zombie outbreak.</p>
+          <span class="badge badge-success p-2">Rating: 4.6</span>
+          <span class="badge badge-warning ml-2 p-2">Comedy</span>
+          <span class="badge badge-warning ml-2 p-2">Horror</span>
+        </td>
+      </tr>
+      <tr>
+        <td width="10"><h2 class="display-5">#2</h2></td>
+        <td width="100"><img src="images/adaline.jpg" height="200" width="200"></td>
+        <td>
+          <h2 class="display-5">The Age of Adaline</h2>
+          <p>After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops 
+              growing older. As the years stretch on and on, Adaline keeps her secret to herself until 
+              she meets a man who changes her life.</p>
+          <span class="badge badge-success p-2">Rating: 7.4</span>
+          <span class="badge badge-warning ml-2 p-2">Fantasy</span>
+          <span class="badge badge-warning ml-2 p-2">Drama</span>
+          <span class="badge badge-warning ml-2 p-2">Romance</span>
+        </td>
+      </tr>
+      <tr>
+        <td width="10"><h2 class="display-5">#3</h2></td>
+        <td width="100"><img src="images/miracleincell.jpg" height="200" width="200"></td>
+        <td>
+          <h2 class="display-5">Miracle in cell No.7</h2>
+          <p>Joselito (Aga Muhlach) is a mentally-challenged man who is wrongfully charged with sexually 
+              assaulting and murdering a little girl. In prison, he becomes friends with his fellow inmates and 
+              together they form a plan to smuggle his young daughter (Xia Vigor) inside the cell! Years after, 
+              his daughter (Bela Padilla) becomes a lawyer and is determined to prove her father's innocence.</p>
+          <span class="badge badge-success p-2">Rating: 6.9</span>
+          <span class="badge badge-warning ml-2 p-2">Drama</span>
+          <span class="badge badge-warning ml-2 p-2">Comedy</span>
+        </td>
+      </tr>
+      <tr>
+        <td width="10"><h2 class="display-5">#4</h2></td>
+        <td width="100"><img src="images/thewolfofwallstreet.jpg" height="200" width="200"></td>
+        <td>
+          <h2 class="display-5">The Wolf of Wall Street</h2>
+          <p>A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption 
+              on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.</p>
+          <span class="badge badge-success p-2">Rating: 8.0</span>
+          <span class="badge badge-warning ml-2 p-2">Crime</span>
+          <span class="badge badge-warning ml-2 p-2">Drama</span>
+          <span class="badge badge-warning ml-2 p-2">Comedy</span>
+        </td>
+      </tr>
+      <tr>
+        <td width="10"><h2 class="display-5">#5</h2></td>
+        <td width="100"><img src="images/whiplash.webp" height="200" width="200"></td>
+        <td>
+          <h2 class="display-5">Whiplash</h2>
+          <p>Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.</p>
+          <span class="badge badge-success p-2">Rating: 8.4</span>
+          <span class="badge badge-warning ml-2 p-2">Drama</span>
+          <span class="badge badge-warning ml-2 p-2">Music</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
